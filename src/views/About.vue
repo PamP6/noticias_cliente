@@ -45,7 +45,7 @@
   
         <!-- Descripción de la imagen -->
         <div class="text-center">
-          <p class="font-weight-bold">2-Juan</p>
+          <p class="font-weight-bold">2-Maycon Gonzalez</p>
           <p class="font-weight-bold">Entidad: Colegio Nacional SDG</p>
           <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
         </div>
@@ -85,6 +85,7 @@
         <!-- Descripción de la imagen -->
         <div class="text-center">
           <p class="font-weight-bold">4-Pamela Corvalan</p>
+          <p class="font-weight-bold">Entidad: Colegio Nacional Salto del Guaira</p>
           <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">peraltapamela445@gmail.com</a></p>
         </div>
       </v-col>
